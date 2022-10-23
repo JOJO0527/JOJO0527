@@ -2,6 +2,7 @@
 - 👀 I’m interested in Go、Cloud-native
 - 🌱 I’m currently learning Go
 - 📫 Contact me on jojo0826@foxmail.com
+- 🏠 GZ CN
 
 <!---
 JOJO0527/JOJO0527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
